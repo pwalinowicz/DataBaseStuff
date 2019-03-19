@@ -1,1 +1,2 @@
-Simple Project to set a Postgresql database within Java environment. Based on https://askit.one/java/ 
+Sample project to set a database within Java environment and play a little bit around with it.
+Based on https://askit.one/java/ and Tim Buchalka's course. PostgreSQL, SQLite etc.
